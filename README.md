@@ -1,4 +1,4 @@
-# Bootcamp Challenge 11 - Express.js Note Taker 
+# Bootcamp Challenge 11 - Express.js Note Taker
 
 ## Description
 
@@ -6,15 +6,16 @@ Challenge is to build an application called Note Taker that can be used to write
 
 [User Story](#user-story) and [Acceptance Criteria](#acceptance-criteria) are below.
 
-Also included below is my [Process & Learnings](#process--learnings) section.
+## Screenshots
 
-## Screenshot
-
-![screenshot](path_to_screenshot "link to screenshot")
+![screenshot](./assets/images/note-taker-index.png "link to screenshot")
+![screenshot](./assets/images/note-taker-notes.png "link to screenshot")
 
 ## Usage
 
 [Github Pages URL](github_pages_url "link to deployed site")
+
+[Render deployment URL](render_url "link to deployed site")
 
 ## User Story
 
@@ -41,5 +42,3 @@ THEN that note appears in the right-hand column and a "New Note" button appears 
 WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 ```
-
-## Process & Learnings

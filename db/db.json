@@ -1,6 +1,22 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "id": "6faa86a9-d7e3-40e0-ab46-356b4e2aa6c4",
+    "title": "Shopping list",
+    "text": "Buy groceries"
+  },
+  {
+    "id": "9b004117-6d04-4071-9fac-ac57cd4e2eef",
+    "title": "Chores",
+    "text": "Mow lawn"
+  },
+  {
+    "id": "d91b99e9-b36a-4dd8-9573-e23fb081214c",
+    "title": "Phone calls",
+    "text": "Make lots"
+  },
+  {
+    "id": "fbdd5b2e-0ce1-48de-821e-63245ad75b78",
+    "title": "Bookkeeping",
+    "text": "Hate this job\n"
+  }
 ]
