@@ -13,9 +13,9 @@ Challenge is to build an application called Note Taker that can be used to write
 
 ## Usage
 
-[Github Pages URL](github_pages_url "link to deployed site")
+[Github Pages URL](https://github.com/roughnut/note-taker-app "link to deployed site")
 
-[Render deployment URL](render_url "link to deployed site")
+[Render deployment URL](https://note-taker-app-6369.onrender.com "link to deployed site")
 
 ## User Story
 
